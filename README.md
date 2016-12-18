@@ -32,3 +32,7 @@ The printTree() function for my included test tree should end up outputting:
 * [80] Code operational success. Your code compiles, executes, and generates the CSV files.
 * [10] Your code is well documented and generally easy to read.
 * [10] Your program intelligently uses classes when appropriate and generally conforms to good OOP design (i.e. everything isn't slapped into main).
+
+=======
+100/100
+=======
